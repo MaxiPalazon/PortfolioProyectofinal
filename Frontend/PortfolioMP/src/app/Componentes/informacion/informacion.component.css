@@ -1,0 +1,30 @@
+img{
+    width: 170px;
+    float: center;
+}
+
+#lista {
+    font-size: 30px;
+    margin-top: 10px
+
+}
+
+#foto{
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+      
+}
+
+div{
+    background-color: blueviolet;
+    margin-right: 0px;
+    }
+
+.Rotulo{
+    font-weight: bold;
+    color: #4E2280
+}
+li{
+    color: #333333;
+}

@@ -1,0 +1,22 @@
+div{
+    background-color:#D58FE7;
+  }
+
+  p{
+    margin-bottom: 0px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+  }
+  
+  h2{
+    margin-top: 35px;
+    margin-left: 10px;
+  }
+
+  h1{
+    text-align: center;
+    border-style: solid;
+    background-color: blueviolet!important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }

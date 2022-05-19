@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    border-style: solid;
+    background-color: blueviolet!important;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+div{
+    background-color: #D58FE7;
+    margin-right: 0px;
+    
+}
+
+#row{
+ 
+  background-color: #D58FE7
+}
+
+img{
+  width: 100%;
+  float: center;
+}
